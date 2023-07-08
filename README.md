@@ -217,6 +217,7 @@ brew install ffmpeg
 brew install gnu-sed
 brew install grep
 brew install findutils
+brew install jq
 ```
 
 #### mp4art/mp4chaps
